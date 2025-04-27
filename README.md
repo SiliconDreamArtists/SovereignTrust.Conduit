@@ -33,7 +33,7 @@ Shadow PhanTom * Neural Alchemist April 2025
                ↓
       +----------------------------+
       |  SovereignTrust.Conductor    |
-      |  (runs Conductions)          |
+      |  (Manages Conduits)          |
       +----------------------------+
                ↓
       +-----------------+
