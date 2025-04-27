@@ -5,9 +5,9 @@ provides the living sovereign memory container for Conductions, managing Phases,
 ██╔════╝      ╚══██╔══╝
 ███████╗         ██║   
 ╚════██║         ██║   
-███████║         ██║   
+███████║overeign ██║rust
 ╚══════╝         ╚═╝   
-
+By
 ███████╗██████╗  █████╗ 
 ██╔════╝██╔══██╗██╔══██╗
 ███████╗██║  ██║███████║
