@@ -1,6 +1,6 @@
 # SovereignTrust.Conduit
 provides the living sovereign memory container for Conductions, managing Phases, Wires, Jackets, and execution state across the SovereignTrust environment..
-
+```plaintext
 ███████╗      ████████╗
 ██╔════╝      ╚══██╔══╝
 ███████╗         ██║   
@@ -44,3 +44,4 @@ provides the living sovereign memory container for Conductions, managing Phases,
 |  Sovereign Outputs | ← Attachments → | External Systems (Azure, AWS, Web, Blockchain) |
 +-------------------+            +--------------------+
 
+```
